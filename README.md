@@ -8,7 +8,8 @@ cd Custom-Kali-ISO/
 ./build.sh --verbose
 ```
 
-To add or remove packages in your own ISO edit the default file or create your own version:
+To add or remove packages in your own ISO.
+Edit the default file or create your own version:
 ```
 Custom-Kali-ISO/kali-config/variant-xfce/package-lists/kali.list.chroot
 ```
