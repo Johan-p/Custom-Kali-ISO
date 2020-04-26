@@ -1,6 +1,6 @@
 # live-build configuration for Kali ISO images
 
-Some basic Git commands are:
+Setup steps:
 ```
 sudo apt install -y curl git live-build cdebootstrap
 git clone https://github.com/Johan-p/Custom-Kali-ISO.git
