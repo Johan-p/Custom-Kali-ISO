@@ -4,12 +4,53 @@ kali-desktop-live
 
 # Kali applications
 #<package>
+nmap
+tcpdump
+wireshark
+recon-ng
+
+#exploiting
+metasploit-framework
+msfpc
+veil
+
+#web
+zaproxy
+burpsuite
+sqlmap
+beef-xss
+
+#passwords & post-exploit
+hashcat
+hashcat-utils
+hydra
+hydra-gtk
+john
+johnny
+wordlists
+seclists
+mimikatz
+enum4linux
+powersploit
+windows-binaries
+wce
+windows-privesc-check
+
+#reporting
+dradis
+
+#utils
+macchanger
+apache2
+git
+
 # You can customize the set of Kali metapackages (groups of tools) to install
 # For the complete list see: https://tools.kali.org/kali-metapackages
-kali-linux-default
+# kali-linux-default
 # kali-linux-large
 # kali-linux-everything
 # kali-tools-top10
+kali-linux-light
 
 # Graphical desktop
 kali-desktop-xfce
